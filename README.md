@@ -1,4 +1,4 @@
-# jsonHaskell
+# REST & JSON via Haskell
 Algoritmo desenvolvido como parte dos créditos da disciplina CEA419 do curso de bacharelado de Sistemas de Informação da Universidade
 Federal de Ouro Preto com foco na exploração de dados remotos no padrão JSON usando linguagem Haskell.
 
